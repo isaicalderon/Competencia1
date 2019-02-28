@@ -1,4 +1,5 @@
 # Competencia1 - Equipos
 
-Isai Aleman Calderon
+Isai Aleman Calderon 
+
 David Miguel Ortiz Camacho
